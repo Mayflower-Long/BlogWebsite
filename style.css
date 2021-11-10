@@ -1,0 +1,22 @@
+*{
+
+}
+
+body{
+background-image: url()
+}
+h1,
+h2, 
+h3, 
+h4, 
+h5, 
+h6 {
+  font-family: font-family: 'Press Start 2P', cursive;
+}
+nav{
+  background-color: e4000f;
+  font-family: font-family: 'Press Start 2P', cursive;
+}
+p{
+  font-family: 'Roboto', sans-serif;
+}
